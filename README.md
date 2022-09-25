@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 
 
 <a href="https://www.instagram.com/j_1nside" target="_blank"><img src="https://img.shields.io/badge/j_1nside-E4405F?style=flat&logo=Instagram&logoColor=FABF15"/></a>
+<a href="https://www.instagram.com/j_1nside" target="_blank"><img src="https://img.shields.io/badge/Kotlin-58CC02?style=flat&logo=Kotlin&logoColor=7F52FF"/></a>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Ahnnet&show_icons=true&theme=radical)
