@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a href="https://www.instagram.com/j_1nside" target="_blank"><img src="https://img.shields.io/badge/E4405F?style=flat&logo=로고&logoColor=E4405F"/></a>
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Ahnnet&show_icons=true&theme=radical)
