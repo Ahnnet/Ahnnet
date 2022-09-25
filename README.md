@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
 
-<a href="https://www.instagram.com/j_1nside" target="_blank"><img src="https://img.shields.io/badge/j_1nside-E4405F?style=flat&logo=Instagram&logoColor=E4405F"/></a>
+<a href="https://www.instagram.com/j_1nside" target="_blank"><img src="https://img.shields.io/badge/j_1nside-E4405F?style=flat&logo=Instagram&logoColor=FABF15"/></a>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Ahnnet&show_icons=true&theme=radical)
