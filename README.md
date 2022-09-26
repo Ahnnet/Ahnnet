@@ -1,7 +1,7 @@
 <div align="center">
-### 😄 Welcome 😄<br>
-### 🌱 I’m currently studying at Gachon University<br>
-### ⚡ These days I'm interested in Android<br>
+😄 Welcome 😄<br>
+🌱 I’m currently studying at Gachon University<br>
+⚡ These days I'm interested in Android<br>
 
 
 <!--
