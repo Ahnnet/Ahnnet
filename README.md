@@ -1,4 +1,7 @@
-### Hi 👋
+### 😄 Welcome 😄
+### 🌱 I’m currently studying at Gachon University
+### ⚡ These days I'm interested in Android
+
 
 <!--
 **Ahnnet/Ahnnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
