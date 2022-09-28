@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 <br>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Ahnnet&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahnnet&langs_count=5&layout=compact&theme=dark)](https://github.com/Ahnnet/Ahnnet)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahnnet&langs_count=10&layout=compact&theme=dark)](https://github.com/Ahnnet/Ahnnet)
