@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 😄 Welcome 😄<br>
 🌱 I’m currently studying at department of Software, Gachon University 🌱<br>
  ⚡ These days I'm interested in Android⚡  <br>
