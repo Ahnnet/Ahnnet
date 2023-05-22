@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=HyoungJin%20Ahn&fontSize=80&fontAlign=60)
 <div align="center"> 
 😄 Welcome 😄<br>
 🌱 I’m currently studying at department of Software, Gachon University 🌱<br>
