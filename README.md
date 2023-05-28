@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=HyoungJin%20Ahn&fontSize=80&fontAlign=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=A9A9A9&height=150&section=header&text=HyoungJin%20Ahn&fontSize=80&fontAlign=60&fontColor=556B2F)
 <div align="center"> 
 😄 Welcome 😄<br>
 🌱 I’m currently studying at department of Software, Gachon University 🌱<br>
@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 <br>
 <br>  
   
-<a href="https://www.instagram.com/j_1nside" target="_blank"><img src="https://img.shields.io/badge/j_1nside-E4405F?style=flat&logo=Instagram&logoColor=000000"/></a>
+<!-- <a href="https://www.instagram.com/j_1nside" target="_blank"><img src="https://img.shields.io/badge/j_1nside-E4405F?style=flat&logo=Instagram&logoColor=000000"/></a> -->
 <br>
-<a href="https://www.java.com/ko/" target="_blank"><img src="https://img.shields.io/badge/Java-yellow?style=flat&logo=Java&logoColor=yellow"/></a>
-<a href="https://developer.android.com/" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=006600"/></a>
+ <a href="https://developer.android.com/" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=006600"/></a>
+<a href="https://www.java.com/ko/" target="_blank"><img src="https://img.shields.io/badge/Java-yellow?style=flat&logo=Java&logoColor=FFD700"/></a>
 <a href="https://kotlinlang.org/" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F2B7B?style=flat&logo=Kotlin&logoColor=7F52FF"/></a>
 </div>
 
