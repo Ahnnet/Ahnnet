@@ -28,6 +28,10 @@ Here are some ideas to get you started:
  <a href="https://developer.android.com/" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=006600"/></a>
 <a href="https://www.java.com/ko/" target="_blank"><img src="https://img.shields.io/badge/Java-yellow?style=flat&logo=Java&logoColor=FFD700"/></a>
 <a href="https://kotlinlang.org/" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F2B7B?style=flat&logo=Kotlin&logoColor=7F52FF"/></a>
+<!--  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/>
+ <a href="https://www.java.com/ko/" target="_blank"><img src="https://img.shields.io/badge/Java-yellow?style=flat&logo=Java&logoColor=FFD700"/></a> -->
+ <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/>
 </div>
 
 <br>
