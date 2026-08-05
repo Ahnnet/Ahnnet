@@ -1,9 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=A9A9A9&height=150&section=header&text=HyoungJin%20Ahn&fontSize=80&fontAlign=60&fontColor=556B2F)
 <div align="center"> 
 😄 Welcome 😄<br>
-<!--🌱 I’m currently studying at department of Software, Gachon University 🌱<br>
+<!--
+ 🌱 I’m currently studying at department of Software, Gachon University 🌱<br>
  ⚡ These days I'm interested in Android⚡  <br>
--->
+
   
 <!--
 **Ahnnet/Ahnnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
@@ -33,6 +34,7 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/>
  <a href="https://www.java.com/ko/" target="_blank"><img src="https://img.shields.io/badge/Java-yellow?style=flat&logo=Java&logoColor=FFD700"/></a> -->
  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=orange"/>
+ -->
 </div>
 
 <br>
