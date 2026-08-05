@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=A9A9A9&height=150&section=header&text=HyoungJin%20Ahn&fontSize=80&fontAlign=60&fontColor=556B2F)
 <div align="center"> 
 😄 Welcome 😄<br>
-🌱 I’m currently studying at department of Software, Gachon University 🌱<br>
+<!--🌱 I’m currently studying at department of Software, Gachon University 🌱<br>
  ⚡ These days I'm interested in Android⚡  <br>
-  
+-->
   
 <!--
 **Ahnnet/Ahnnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
